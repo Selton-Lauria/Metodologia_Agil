@@ -1,12 +1,12 @@
-# **Metodologia_Ágil**
+# Metodologia_Ágil
 
 ## Objetivo:
 Esse projeto tem como objetivo testar como é trabalhar em equipe de forma profissional
 
-## *Status do Projeto*: 
+## Status do Projeto: 
 Em desenvolvimento!!!
 
-## *Funcionalidades*: 
+## Funcionalidades: 
 Descobrir sobre a linguagem JavaScript, sua história, suas funcionalidades, suas vantagens e empresas que a usam.
 
 ## Autores: 
